@@ -1,6 +1,6 @@
 # Using python's Folium to create interactive maps
 
-The blog post for this notebook can be found [here]().
+The blog post for this notebook can be found [here](https://www.nagarajbhat.com/post/folium-visualization/) .
 
 Folium is a python library built on top of leaflet.js. It is used to visualize data through interactive maps, choropleth visualization, as well as parsing markers on data. 
 
